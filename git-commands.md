@@ -11,5 +11,11 @@ BASIC COMMITING COMMANDS
 git add .                       
 git commit -m"message" 
 git push
+
+
+---To pull changes from repo
 git pull
 
+
+# Terminal Commands
+gedit ~/.zshrc
